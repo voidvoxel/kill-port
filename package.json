@@ -1,0 +1,15 @@
+{
+  "name": "kill-port",
+  "version": "0.0.0",
+  "description": "Kill a process based on a rogue port number",
+  "main": "src/index.js",
+  "bin": {
+    "kill-port": "bin/kill-port.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ashlynn Juniper",
+  "license": "MPL-2.0"
+}
