@@ -1,6 +1,6 @@
 {
   "name": "@voidvoxel/kill-port",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.1.0.1",
   "description": "Kill a process based on a rogue port number",
   "main": "src/index.js",
   "bin": {
