@@ -4,7 +4,7 @@
   "description": "Kill a process based on a rogue port number",
   "main": "src/index.js",
   "bin": {
-    "kill-port": "bin/kill-port.js"
+    "killport": "bin/killport.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
