@@ -1,5 +1,5 @@
 {
-  "name": "kill-port",
+  "name": "@voidvoxel/kill-port",
   "version": "1.0.0-alpha",
   "description": "Kill a process based on a rogue port number",
   "main": "src/index.js",
