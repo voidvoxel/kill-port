@@ -13,7 +13,7 @@ async function killPort(
   port
 ) {
   port
-    = !!port & port <= 65535
+    = !!port & (port <= 65535 && port >= 0)
     ? port
     : (
       () => {
